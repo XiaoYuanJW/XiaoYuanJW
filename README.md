@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Site 🌐
 * my blog : [XiaoYuanJW/blog](https://xiaoyuanjw.github.io/)
-* my note : [goog.tech/note](https://xiaoyuanjw.github.io/Docsify/#/)
+* my note : [XiaoYuanJW/note](https://xiaoyuanjw.github.io/Docsify/#/)
 
 ## Get In Touch ☕
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/XiaoYuanJW)
